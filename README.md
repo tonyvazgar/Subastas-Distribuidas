@@ -17,7 +17,7 @@ En este proyecto existen dos tipos de "Main", uno para el cliente y uno para el 
     <summary> Autores </summary> 
     <a href="mailto:luis.lunapa@udlap.mx" target="_top">luis.lunapa@udlap.mx</a>
     </details>
-* **Luis Antoni Vázquez García** <details>
+* **Luis Antonio Vázquez García** <details>
     <summary> Contacto </summary> 
     <a href="mailto:luis.vazquezga@udlap.mx" target="_top">luis.vazquezga@udlap.mx</a>
     </details>

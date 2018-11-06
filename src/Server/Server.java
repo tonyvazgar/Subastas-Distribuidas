@@ -87,13 +87,13 @@ public class Server implements Remote, ServidorMetodos {
              * En las siguientes lineas vamos a ingresar entre:
              * localhost y la dirección ip actual de tu dispositivo (ejemplo: 140.148.207.207)
              */
-
             Scanner scanner = new Scanner(System.in);
             System.out.println("Ingresa la palabra 'localhost' o  tu IP actual (ejemplo: 140.148.207.207): ");
             System.out.print("==>");
             String line = new Scanner(System.in).nextLine();
             
-            //System.setProperty("java.rmi.server.hostname","140.148.195.188");
+            
+            
             System.setProperty("java.rmi.server.hostname", line);
             ServidorMetodos stub = (ServidorMetodos) UnicastRemoteObject.exportObject(server, 2345);
 

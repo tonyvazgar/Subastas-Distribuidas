@@ -2,8 +2,7 @@
 
 
 # Instrucciones
-En este proyecto existen dos tipos de "Main", uno para el cliente y uno para el servidor, sabiendo esto, se debe proseguir de la siguiente manera:
-* Correr la clase Servidor dentro del package XXX y la consola esperará una entrada, la cual es el IP de la maquina a trabajar como el servidor, ejemplo: 140.148.80.1
+En la clase Cliente.java del package Client vamos a cambiar la linea 37 por localhost o la IP propuesta en el servidor.
 
 # Autores 
 * **Luis Gerardo Luna Peña** <details>
